@@ -7,7 +7,7 @@ This project focuses on:
 - Asking business questions in natural language
 - Converting questions into SQL and visual results
 
----
+---  
 
 ## Architecture (High Level)
 
